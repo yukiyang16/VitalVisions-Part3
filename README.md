@@ -6,7 +6,6 @@ implemented for Part 3 of HW4 in 17-720 (Machine Learning and Sensing for Health
 ## Files
 - `transmitter_bfsk_alpha.py`: Generates BFSK alpha modulation on a static image.
 - `receiver_bfsk_decode.py`: Decodes BFSK bits from recorded smartphone video.
-- `sample_bitstrings/`: optional folder for test sequences.
 
 ## How to use
 1. Run transmitter script on a laptop display.
